@@ -6,7 +6,43 @@
  <meta name="viewport" content="width=device-width, initial-scale=1">
  <link rel="profile" href="https://gmpg.org/xfn/11">
  <link rel="pingback" href="https://campoal.com/impact/xmlrpc.php">
- <title>Campoal – Campoal Impact Demo</title>
+ <title>Code Head Africa Project – ASSOCIATION OF NOT TOO YOUNG TO TECH YOUTH DEVELOPMENT INITIATIVE</title>
+
+ <meta name="description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. " />
+ <meta name="keywords" content="Code Head Africa, community, " />
+ <meta name="Classification" content="Software Developer">
+ <meta name="target" content="Code Head Africa Project – ASSOCIATION OF NOT TOO YOUNG TO TECH YOUTH DEVELOPMENT INITIATIVE">
+ <meta name="apple-mobile-web-app-status-bar-style" content="black" />
+ <meta name="GOOGLEBOT" content="index follow" />
+ <meta name="apple-mobile-web-app-capable" content="yes" />
+ <meta name="bingbot" content="index follow" />
+ <meta name="Slurp" content="index follow" />
+
+ <meta property="fb:app_id" content="">
+ <meta property="og:locale" content="en_US" />
+ <meta property="og:site_name" content="Codeheadafrica" />
+ <meta property="og:title" content="Code Head Africa Project – ASSOCIATION OF NOT TOO YOUNG TO TECH YOUTH DEVELOPMENT INITIATIVE" />
+ <meta property="og:type" content="article" />
+ <meta property="og:description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. " />
+ <meta property="og:url" content="https://codeheadafrica.com/">
+ <meta property="og:image" content="https://codeheadafrica.com/img/logo.png">
+ <meta property="og:image:secure_url" content="https://codeheadafrica.com/img/logo.png" />
+ <meta property="og:image:width" content="600" />
+ <meta property="og:image:height" content="415" />
+
+ <meta name="twitter:card" content="Codeheadafrica" />
+ <meta name="twitter:title" content="community-based organization" />
+ <meta name="twitter:url" content="https://codeheadafrica.com/">
+ <meta name="twitter:description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. " />
+ <meta name="twitter:image" content="https://codeheadafrica.com/img/logo.png" />
+ <meta name="twitter:domain" content="https://codeheadafrica.com/">
+ <meta name="twitter:creator" content="Codeheadafrica">
+
+ <meta itemprop="name" content="Codeheadafrica">
+ <meta itemprop="description" content="CodeHeadAfrica is a community-based organization that aims to promote technology education among young people in Africa. ">
+ <meta itemprop="image" content="https://codeheadafrica.com/img/logo.png">
+ <meta name="author" content="elemis">
+
  <meta name="robots" content="noindex, nofollow">
  <link rel="dns-prefetch" href="https://js.stripe.com/">
  <link rel="dns-prefetch" href="https://maps.googleapis.com/">

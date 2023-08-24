@@ -11,20 +11,20 @@
                     <div class="grid-container">
                         <div id="section-gdcc644" class="wp-block-gutentor-e1 section-gdcc644 gutentor-element gutentor-element-advanced-text text-align-center-desktop text-align-center-mobile">
                             <div class="gutentor-text-wrap">
-                                <h1 class="gutentor-text">G-Force: Empowering Change Against Gender-Based Violence</h1>
+                                <h1 class="gutentor-text" style="font-size: 50px;">Code Head Africa Project: A community-based organization that aims to promote technology education among young people in Africa, especially those in slum and deprived areas.</h1>
                             </div>
                         </div>
                         <div id="section-g0a7450" class="wp-block-gutentor-e0 section-g0a7450 gutentor-element gutentor-element-advanced-text text-align-center-desktop text-align-center-mobile">
                             <div class="gutentor-text-wrap">
-                                <div class="gutentor-text">We are dedicated to addressing gender-based violence and creating a safer society for all. G-Force is an innovative platform that empowers individuals to report incidents of gender-based violence, access support services, and contribute to prevention efforts. Together, we can make a difference.</div>
+                                <div class="gutentor-text">Our goal is to ensure that African children have easy access to technology and are well equipped to take advantage of the opportunities presented by the digital age. </div>
                             </div>
                         </div>
                         <div id="gm5909cfa" class="wp-block-gutentor-m1 section-gm5909cfa gutentor-module gutentor-element-button-group button-align-center-desktop button-align-center-mobile g-btn-horizontal-d g-btn-horizontal-t g-btn-horizontal-m">
                             <div class="gutentor-element-button-group-wrap">
 
-                                <div id="section-g64d3d3" class="wp-block-gutentor-e2 section-g64d3d3 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://api.whatsapp.com/send?phone=2348098862800&text=Hi i want to report a Gender base violence"><i class="gutentor-button-icon fas fa-arrow-right"></i><span>Report Violence</span></a></span></div>
+                                <div id="section-g64d3d3" class="wp-block-gutentor-e2 section-g64d3d3 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://api.whatsapp.com/send?phone=2348098862800&text=Hi i am interested in your community"><i class="gutentor-button-icon fas fa-arrow-right"></i><span>Contact Admin</span></a></span></div>
 
-                                <div id="section-g9fbe81" class="wp-block-gutentor-e2 section-g9fbe81 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="#"><i class="gutentor-button-icon fas fa-book"></i><span>Volunteer</span></a></span></div>
+                                <div id="section-g9fbe81" class="wp-block-gutentor-e2 section-g9fbe81 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://forms.gle/wpKmuXxxkhcGQgv36"><i class="gutentor-button-icon fas fa-book"></i><span>Volunteer</span></a></span></div>
 
                             </div>
                         </div>
