@@ -1,7 +1,7 @@
 <footer>
  <div class="ui inverted vertical segment footer">
   <div class="ui container">
-   <div class="ui stackable inverted grid site-footer-grid">
+   <div class="ui stackable inverted grid site-footer-grid ">
 
 
     <div class="four wide column">

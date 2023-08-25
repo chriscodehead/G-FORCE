@@ -22,7 +22,7 @@
                         <div id="gm5909cfa" class="wp-block-gutentor-m1 section-gm5909cfa gutentor-module gutentor-element-button-group button-align-center-desktop button-align-center-mobile g-btn-horizontal-d g-btn-horizontal-t g-btn-horizontal-m">
                             <div class="gutentor-element-button-group-wrap">
 
-                                <div id="section-g64d3d3" class="wp-block-gutentor-e2 section-g64d3d3 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://api.whatsapp.com/send?phone=2348098862800&text=Hi i want to report a Gender base violence"><i class="gutentor-button-icon fas fa-arrow-right"></i><span>Report Violence</span></a></span></div>
+                                <div id="section-g64d3d3" class="wp-block-gutentor-e2 section-g64d3d3 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="https://api.whatsapp.com/send?phone=2348098862800&text=Hi i want to report a Gender base violence "><i class="gutentor-button-icon fas fa-arrow-right"></i><span>Report Violence</span></a></span></div>
 
                                 <div id="section-g9fbe81" class="wp-block-gutentor-e2 section-g9fbe81 gutentor-element gutentor-element-button"><span class="gutentor-button-wrap"><a class="gutentor-button gutentor-block-button gutentor-icon-hide" href="#"><i class="gutentor-button-icon fas fa-book"></i><span>Volunteer</span></a></span></div>
 

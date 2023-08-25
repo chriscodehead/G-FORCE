@@ -2293,7 +2293,7 @@ body {
             }
         }
 
-        @media only screen and (min-width:768px) {
+        @media only screen and (min-width:768px ) {
             .section-gmbad047a {
                 margin: -80px 0 0 0
             }

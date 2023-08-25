@@ -261,7 +261,7 @@
  <link rel="icon" href="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-32x32.png" sizes="32x32">
  <link rel="icon" href="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-192x192.png" sizes="192x192">
  <link rel="apple-touch-icon" href="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-180x180.png">
- <meta name="msapplication-TileImage" content="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-270x270.png">
+ <meta name="msapplication-TileImage" content="https://dlkho6epq83v0.cloudfront.net/impact/wp-content/uploads/2022/02/06144103/cropped-campoal-icon-impact-270x270.png ">
 
  <style type="text/css" id="gutentor-dynamic-css">
  </style>
